@@ -1,0 +1,496 @@
+course_id,title,category,difficulty,rating
+C2,Course 2,Math,Intermediate,4.8
+C5,Course 5,Data Science,Advanced,3.5
+C6,Course 6,Programming,Advanced,4.7
+C7,Course 7,Data Science,Intermediate,4.2
+C8,Course 8,AI,Advanced,4.6
+C9,Course 9,Cybersecurity,Intermediate,4.3
+C10,Course 10,Cloud Computing,Beginner,4.1
+C11,Course 11,Math,Intermediate,4.7
+C12,Course 12,AI,Advanced,4.6
+C13,Course 13,Programming,Advanced,4.7
+C14,Course 14,AI,Advanced,4.7
+C15,Course 15,Cybersecurity,Intermediate,4.2
+C16,Course 16,Cybersecurity,Intermediate,3.5
+C17,Course 17,Cybersecurity,Advanced,4.2
+C18,Course 18,Cloud Computing,Advanced,3.6
+C19,Course 19,Programming,Advanced,4.7
+C20,Course 20,Data Science,Beginner,4.2
+C21,Course 21,Cloud Computing,Intermediate,3.9
+C22,Course 22,Data Science,Beginner,4.1
+C23,Course 23,Programming,Intermediate,3.0
+C24,Course 24,Cybersecurity,Beginner,3.7
+C25,Course 25,Data Science,Intermediate,3.9
+C26,Course 26,Math,Intermediate,4.7
+C27,Course 27,Cloud Computing,Beginner,4.9
+C28,Course 28,Math,Advanced,3.0
+C29,Course 29,Cybersecurity,Advanced,3.1
+C30,Course 30,Cybersecurity,Beginner,3.6
+C31,Course 31,AI,Advanced,3.4
+C32,Course 32,Cybersecurity,Advanced,4.7
+C33,Course 33,Cloud Computing,Beginner,4.6
+C34,Course 34,Programming,Intermediate,4.8
+C35,Course 35,Programming,Advanced,4.7
+C36,Course 36,Math,Advanced,3.8
+C37,Course 37,Cybersecurity,Beginner,3.4
+C38,Course 38,Cybersecurity,Advanced,4.1
+C39,Course 39,Cybersecurity,Intermediate,4.2
+C40,Course 40,Cloud Computing,Beginner,4.4
+C41,Course 41,Math,Intermediate,4.5
+C42,Course 42,Data Science,Advanced,4.6
+C43,Course 43,Programming,Intermediate,5.0
+C44,Course 44,AI,Advanced,3.7
+C45,Course 45,Data Science,Intermediate,4.9
+C46,Course 46,Math,Intermediate,4.5
+C47,Course 47,Math,Intermediate,3.2
+C48,Course 48,Cloud Computing,Advanced,3.2
+C49,Course 49,Programming,Intermediate,4.3
+C50,Course 50,Programming,Intermediate,3.9
+C51,Course 51,Cloud Computing,Advanced,3.5
+C52,Course 52,AI,Beginner,4.1
+C53,Course 53,Cloud Computing,Intermediate,4.2
+C54,Course 54,Cybersecurity,Beginner,4.4
+C55,Course 55,Programming,Advanced,3.6
+C56,Course 56,Math,Advanced,3.6
+C57,Course 57,Math,Advanced,4.7
+C58,Course 58,Cloud Computing,Intermediate,3.6
+C59,Course 59,Data Science,Intermediate,4.3
+C60,Course 60,Cloud Computing,Intermediate,4.4
+C61,Course 61,AI,Advanced,3.2
+C62,Course 62,Math,Beginner,3.3
+C63,Course 63,Math,Beginner,3.5
+C64,Course 64,Cloud Computing,Intermediate,3.4
+C65,Course 65,AI,Advanced,3.7
+C66,Course 66,Cybersecurity,Beginner,3.3
+C67,Course 67,Cybersecurity,Beginner,4.3
+C68,Course 68,Programming,Beginner,3.2
+C69,Course 69,Programming,Advanced,4.3
+C70,Course 70,Data Science,Beginner,3.6
+C71,Course 71,Cybersecurity,Intermediate,4.4
+C72,Course 72,Cybersecurity,Advanced,4.5
+C73,Course 73,Programming,Advanced,3.1
+C74,Course 74,AI,Intermediate,4.3
+C75,Course 75,AI,Beginner,4.6
+C76,Course 76,Math,Intermediate,5.0
+C77,Course 77,AI,Intermediate,3.3
+C78,Course 78,Data Science,Intermediate,4.6
+C79,Course 79,Cloud Computing,Beginner,3.9
+C80,Course 80,Programming,Advanced,3.5
+C81,Course 81,Programming,Intermediate,3.1
+C82,Course 82,AI,Intermediate,4.9
+C83,Course 83,Data Science,Intermediate,4.9
+C84,Course 84,Math,Advanced,4.1
+C85,Course 85,AI,Intermediate,3.4
+C86,Course 86,Programming,Beginner,4.8
+C87,Course 87,Cybersecurity,Beginner,4.2
+C88,Course 88,Math,Advanced,3.8
+C89,Course 89,Cloud Computing,Advanced,4.9
+C90,Course 90,Math,Advanced,4.4
+C91,Course 91,Cybersecurity,Intermediate,4.6
+C92,Course 92,Data Science,Beginner,5.0
+C93,Course 93,Cybersecurity,Intermediate,3.8
+C94,Course 94,Programming,Intermediate,4.3
+C95,Course 95,Data Science,Beginner,4.7
+C96,Course 96,Math,Intermediate,3.9
+C97,Course 97,Programming,Intermediate,3.2
+C98,Course 98,Math,Advanced,4.4
+C99,Course 99,AI,Intermediate,4.6
+C100,Course 100,Cybersecurity,Advanced,4.7
+C101,Course 101,Cloud Computing,Intermediate,4.0
+C102,Course 102,Data Science,Intermediate,3.5
+C103,Course 103,Programming,Beginner,3.9
+C104,Course 104,Data Science,Intermediate,3.4
+C105,Course 105,Data Science,Beginner,3.9
+C106,Course 106,Cybersecurity,Advanced,3.9
+C107,Course 107,Cybersecurity,Intermediate,4.5
+C108,Course 108,Data Science,Intermediate,4.1
+C109,Course 109,Programming,Beginner,4.9
+C110,Course 110,Programming,Intermediate,4.0
+C111,Course 111,Math,Beginner,4.3
+C112,Course 112,Data Science,Intermediate,4.7
+C113,Course 113,Data Science,Intermediate,4.1
+C114,Course 114,Cloud Computing,Advanced,3.7
+C115,Course 115,Math,Beginner,4.8
+C116,Course 116,Cybersecurity,Advanced,4.2
+C117,Course 117,Data Science,Beginner,4.9
+C118,Course 118,Programming,Intermediate,4.5
+C119,Course 119,Cloud Computing,Intermediate,3.6
+C120,Course 120,Cybersecurity,Intermediate,4.2
+C121,Course 121,Programming,Beginner,3.2
+C122,Course 122,Cloud Computing,Advanced,3.6
+C123,Course 123,Math,Intermediate,3.5
+C124,Course 124,AI,Intermediate,4.9
+C125,Course 125,Data Science,Advanced,3.4
+C126,Course 126,Data Science,Advanced,3.8
+C127,Course 127,Cloud Computing,Intermediate,3.4
+C128,Course 128,Math,Advanced,4.6
+C129,Course 129,AI,Beginner,3.3
+C130,Course 130,Math,Intermediate,3.6
+C131,Course 131,Cybersecurity,Intermediate,4.1
+C132,Course 132,AI,Intermediate,3.8
+C133,Course 133,Data Science,Intermediate,4.0
+C134,Course 134,Programming,Intermediate,3.5
+C135,Course 135,Math,Intermediate,3.6
+C136,Course 136,Cloud Computing,Intermediate,4.5
+C137,Course 137,Data Science,Intermediate,4.7
+C138,Course 138,AI,Advanced,4.6
+C139,Course 139,AI,Intermediate,3.8
+C141,Course 141,AI,Beginner,4.5
+C142,Course 142,Cybersecurity,Advanced,4.9
+C143,Course 143,Math,Intermediate,4.2
+C144,Course 144,AI,Advanced,4.5
+C145,Course 145,Programming,Beginner,3.9
+C146,Course 146,Data Science,Beginner,3.4
+C147,Course 147,Data Science,Beginner,3.6
+C148,Course 148,AI,Intermediate,4.8
+C149,Course 149,Math,Intermediate,4.4
+C150,Course 150,AI,Advanced,4.7
+C151,Course 151,Data Science,Beginner,3.1
+C152,Course 152,Programming,Advanced,4.8
+C153,Course 153,AI,Beginner,4.9
+C154,Course 154,Data Science,Intermediate,4.7
+C155,Course 155,Cloud Computing,Advanced,3.1
+C157,Course 157,Cloud Computing,Advanced,3.8
+C158,Course 158,Cybersecurity,Advanced,3.2
+C159,Course 159,Math,Intermediate,4.8
+C160,Course 160,AI,Intermediate,3.6
+C161,Course 161,Cloud Computing,Beginner,3.6
+C162,Course 162,Data Science,Beginner,4.3
+C163,Course 163,AI,Intermediate,3.8
+C164,Course 164,Data Science,Beginner,4.8
+C165,Course 165,Cloud Computing,Advanced,3.6
+C166,Course 166,AI,Beginner,3.3
+C167,Course 167,Programming,Beginner,3.3
+C168,Course 168,Cloud Computing,Beginner,3.7
+C169,Course 169,Programming,Beginner,3.1
+C170,Course 170,Cloud Computing,Beginner,3.2
+C171,Course 171,Cloud Computing,Intermediate,3.3
+C172,Course 172,Math,Advanced,4.5
+C173,Course 173,Programming,Intermediate,4.3
+C174,Course 174,Programming,Advanced,3.5
+C175,Course 175,AI,Beginner,3.5
+C176,Course 176,AI,Intermediate,4.4
+C177,Course 177,Programming,Beginner,3.5
+C178,Course 178,Math,Advanced,4.1
+C179,Course 179,Cloud Computing,Beginner,4.7
+C180,Course 180,Data Science,Beginner,3.2
+C181,Course 181,Programming,Intermediate,4.7
+C182,Course 182,Data Science,Intermediate,3.7
+C183,Course 183,Data Science,Intermediate,4.2
+C184,Course 184,Cloud Computing,Beginner,3.3
+C185,Course 185,AI,Beginner,4.4
+C186,Course 186,Cloud Computing,Advanced,3.4
+C187,Course 187,Data Science,Intermediate,3.8
+C188,Course 188,Data Science,Intermediate,4.5
+C189,Course 189,AI,Beginner,3.6
+C190,Course 190,Programming,Advanced,3.7
+C191,Course 191,Data Science,Intermediate,4.8
+C192,Course 192,Programming,Advanced,4.7
+C193,Course 193,Data Science,Advanced,3.1
+C194,Course 194,AI,Advanced,4.7
+C195,Course 195,Cybersecurity,Intermediate,4.5
+C196,Course 196,Cloud Computing,Advanced,4.9
+C197,Course 197,AI,Beginner,3.3
+C198,Course 198,Data Science,Intermediate,3.8
+C199,Course 199,Cloud Computing,Beginner,4.8
+C200,Course 200,Data Science,Beginner,4.7
+C201,Course 201,Cybersecurity,Intermediate,4.3
+C202,Course 202,AI,Advanced,4.8
+C203,Course 203,Cloud Computing,Beginner,4.5
+C204,Course 204,Data Science,Advanced,4.8
+C205,Course 205,AI,Intermediate,4.3
+C206,Course 206,Data Science,Intermediate,4.4
+C207,Course 207,Data Science,Advanced,4.0
+C208,Course 208,AI,Beginner,3.5
+C209,Course 209,Cybersecurity,Advanced,4.7
+C210,Course 210,Math,Beginner,3.8
+C211,Course 211,Cloud Computing,Advanced,4.8
+C212,Course 212,Math,Advanced,3.7
+C213,Course 213,Programming,Beginner,3.5
+C214,Course 214,Cybersecurity,Beginner,4.3
+C215,Course 215,Data Science,Advanced,4.3
+C216,Course 216,AI,Intermediate,4.0
+C217,Course 217,Math,Advanced,3.3
+C218,Course 218,Data Science,Intermediate,3.5
+C219,Course 219,AI,Beginner,4.8
+C220,Course 220,Data Science,Advanced,4.9
+C221,Course 221,AI,Beginner,4.7
+C222,Course 222,Cloud Computing,Intermediate,3.1
+C223,Course 223,Programming,Advanced,3.0
+C224,Course 224,Programming,Intermediate,4.5
+C225,Course 225,AI,Beginner,4.7
+C226,Course 226,Math,Advanced,4.8
+C227,Course 227,Math,Advanced,3.8
+C228,Course 228,Cloud Computing,Beginner,4.9
+C229,Course 229,Data Science,Advanced,3.1
+C230,Course 230,Cybersecurity,Advanced,4.2
+C231,Course 231,Programming,Beginner,4.6
+C232,Course 232,Cybersecurity,Advanced,3.7
+C233,Course 233,Cybersecurity,Advanced,4.5
+C234,Course 234,AI,Advanced,4.9
+C235,Course 235,Math,Intermediate,3.6
+C236,Course 236,Data Science,Beginner,3.8
+C237,Course 237,Math,Intermediate,3.6
+C238,Course 238,Data Science,Intermediate,4.6
+C239,Course 239,Cloud Computing,Beginner,3.9
+C240,Course 240,Math,Intermediate,4.6
+C241,Course 241,Cybersecurity,Intermediate,3.7
+C242,Course 242,Data Science,Beginner,3.6
+C243,Course 243,Data Science,Beginner,3.8
+C244,Course 244,AI,Beginner,4.9
+C245,Course 245,Cloud Computing,Advanced,4.9
+C246,Course 246,Programming,Beginner,3.2
+C247,Course 247,Cloud Computing,Intermediate,5.0
+C248,Course 248,Cybersecurity,Advanced,3.1
+C249,Course 249,Data Science,Beginner,3.6
+C250,Course 250,Programming,Advanced,4.1
+C251,Course 251,Data Science,Intermediate,4.5
+C252,Course 252,Math,Advanced,4.1
+C253,Course 253,Programming,Beginner,3.8
+C254,Course 254,Programming,Beginner,4.2
+C255,Course 255,Cloud Computing,Beginner,3.1
+C256,Course 256,Cloud Computing,Intermediate,3.2
+C257,Course 257,AI,Beginner,4.2
+C258,Course 258,Cloud Computing,Advanced,4.5
+C259,Course 259,Math,Intermediate,3.7
+C260,Course 260,Math,Beginner,3.9
+C261,Course 261,AI,Advanced,3.5
+C262,Course 262,Cybersecurity,Beginner,4.9
+C263,Course 263,Cloud Computing,Advanced,3.2
+C264,Course 264,Data Science,Advanced,3.5
+C265,Course 265,Math,Beginner,4.0
+C266,Course 266,Cybersecurity,Advanced,4.9
+C267,Course 267,Cloud Computing,Intermediate,3.0
+C268,Course 268,Programming,Beginner,3.1
+C269,Course 269,Programming,Advanced,4.0
+C270,Course 270,AI,Advanced,4.3
+C271,Course 271,Cybersecurity,Intermediate,4.7
+C272,Course 272,Cybersecurity,Advanced,3.9
+C273,Course 273,Data Science,Intermediate,3.7
+C274,Course 274,Data Science,Beginner,3.4
+C275,Course 275,AI,Beginner,4.9
+C276,Course 276,AI,Advanced,4.9
+C277,Course 277,Math,Intermediate,4.5
+C278,Course 278,Programming,Beginner,4.6
+C279,Course 279,Data Science,Intermediate,4.1
+C280,Course 280,AI,Beginner,4.7
+C281,Course 281,Data Science,Advanced,4.7
+C282,Course 282,Data Science,Intermediate,3.3
+C283,Course 283,Math,Beginner,3.1
+C284,Course 284,Programming,Intermediate,4.2
+C285,Course 285,Programming,Intermediate,4.0
+C286,Course 286,Math,Intermediate,3.8
+C287,Course 287,Cybersecurity,Intermediate,3.3
+C288,Course 288,AI,Intermediate,4.4
+C289,Course 289,Data Science,Beginner,4.8
+C290,Course 290,AI,Advanced,3.2
+C291,Course 291,Cloud Computing,Intermediate,3.7
+C292,Course 292,Cloud Computing,Intermediate,4.6
+C293,Course 293,AI,Beginner,4.3
+C294,Course 294,AI,Beginner,4.0
+C295,Course 295,Cloud Computing,Beginner,4.9
+C296,Course 296,AI,Intermediate,4.0
+C297,Course 297,Data Science,Intermediate,3.9
+C298,Course 298,Data Science,Beginner,3.1
+C299,Course 299,Cybersecurity,Advanced,3.0
+C300,Course 300,Data Science,Beginner,4.6
+C301,Course 301,Programming,Advanced,3.0
+C302,Course 302,Cybersecurity,Advanced,4.9
+C303,Course 303,Data Science,Advanced,3.8
+C304,Course 304,Cybersecurity,Beginner,4.0
+C305,Course 305,Data Science,Intermediate,3.3
+C306,Course 306,Programming,Intermediate,4.3
+C307,Course 307,Programming,Advanced,3.4
+C308,Course 308,Programming,Advanced,4.0
+C309,Course 309,Cybersecurity,Beginner,3.3
+C310,Course 310,Cybersecurity,Beginner,4.3
+C311,Course 311,AI,Intermediate,3.2
+C312,Course 312,AI,Advanced,4.1
+C313,Course 313,Data Science,Beginner,4.8
+C314,Course 314,Cloud Computing,Beginner,3.0
+C315,Course 315,Programming,Advanced,4.5
+C316,Course 316,Cloud Computing,Beginner,3.4
+C317,Course 317,Math,Intermediate,3.6
+C318,Course 318,Data Science,Advanced,4.3
+C319,Course 319,AI,Intermediate,3.7
+C320,Course 320,Programming,Advanced,3.3
+C321,Course 321,Cybersecurity,Beginner,3.3
+C322,Course 322,Programming,Beginner,4.6
+C323,Course 323,Cloud Computing,Beginner,3.3
+C324,Course 324,Programming,Intermediate,3.8
+C325,Course 325,Math,Advanced,3.1
+C326,Course 326,Programming,Advanced,4.8
+C327,Course 327,AI,Beginner,3.3
+C328,Course 328,Programming,Advanced,3.0
+C329,Course 329,Cybersecurity,Intermediate,4.9
+C330,Course 330,Data Science,Beginner,4.4
+C331,Course 331,Cloud Computing,Beginner,3.7
+C332,Course 332,Math,Intermediate,3.5
+C333,Course 333,Math,Beginner,3.8
+C334,Course 334,Data Science,Beginner,4.9
+C335,Course 335,Cybersecurity,Advanced,3.5
+C336,Course 336,AI,Advanced,4.2
+C337,Course 337,Cybersecurity,Intermediate,3.2
+C338,Course 338,Math,Advanced,4.1
+C339,Course 339,AI,Intermediate,3.5
+C340,Course 340,Math,Beginner,4.0
+C341,Course 341,Cybersecurity,Intermediate,4.1
+C342,Course 342,Math,Beginner,4.6
+C343,Course 343,Cloud Computing,Beginner,3.8
+C344,Course 344,Data Science,Beginner,3.2
+C345,Course 345,Cloud Computing,Intermediate,4.8
+C346,Course 346,Cybersecurity,Beginner,4.0
+C347,Course 347,Programming,Intermediate,4.8
+C348,Course 348,Math,Beginner,3.0
+C349,Course 349,Programming,Intermediate,4.5
+C350,Course 350,Cloud Computing,Intermediate,3.2
+C351,Course 351,Programming,Intermediate,4.9
+C352,Course 352,Cybersecurity,Beginner,3.2
+C353,Course 353,AI,Intermediate,3.5
+C354,Course 354,AI,Beginner,3.1
+C355,Course 355,Cybersecurity,Beginner,3.6
+C356,Course 356,Data Science,Beginner,3.4
+C357,Course 357,Cloud Computing,Intermediate,3.7
+C358,Course 358,Math,Intermediate,3.7
+C359,Course 359,Math,Intermediate,3.7
+C360,Course 360,Cybersecurity,Advanced,4.8
+C361,Course 361,Programming,Beginner,3.7
+C362,Course 362,Cloud Computing,Beginner,4.7
+C363,Course 363,Cybersecurity,Intermediate,5.0
+C364,Course 364,Programming,Intermediate,3.2
+C365,Course 365,Cybersecurity,Intermediate,3.2
+C366,Course 366,Cybersecurity,Intermediate,4.6
+C367,Course 367,Programming,Advanced,3.1
+C368,Course 368,Data Science,Intermediate,4.7
+C369,Course 369,Data Science,Intermediate,3.3
+C370,Course 370,Programming,Advanced,4.4
+C371,Course 371,Cybersecurity,Intermediate,3.6
+C372,Course 372,Data Science,Beginner,3.9
+C373,Course 373,Math,Beginner,4.7
+C374,Course 374,Cloud Computing,Beginner,5.0
+C375,Course 375,AI,Beginner,4.4
+C376,Course 376,AI,Beginner,3.5
+C377,Course 377,Cybersecurity,Beginner,4.9
+C378,Course 378,Cybersecurity,Intermediate,4.6
+C379,Course 379,Programming,Beginner,3.4
+C380,Course 380,Programming,Beginner,3.2
+C381,Course 381,Data Science,Intermediate,4.2
+C382,Course 382,Programming,Intermediate,4.9
+C383,Course 383,Math,Intermediate,3.8
+C384,Course 384,Cloud Computing,Beginner,3.9
+C385,Course 385,AI,Advanced,4.2
+C386,Course 386,Data Science,Beginner,3.7
+C387,Course 387,Math,Beginner,4.1
+C388,Course 388,AI,Intermediate,4.5
+C389,Course 389,Cybersecurity,Beginner,3.1
+C390,Course 390,Programming,Beginner,3.6
+C391,Course 391,AI,Beginner,3.6
+C392,Course 392,AI,Advanced,3.9
+C393,Course 393,Data Science,Intermediate,4.1
+C394,Course 394,AI,Beginner,4.0
+C395,Course 395,AI,Advanced,4.3
+C396,Course 396,Cloud Computing,Advanced,3.1
+C397,Course 397,Math,Beginner,3.7
+C398,Course 398,Programming,Intermediate,3.5
+C399,Course 399,Math,Beginner,4.1
+C400,Course 400,Math,Advanced,4.5
+C401,Course 401,Programming,Intermediate,4.8
+C402,Course 402,Programming,Advanced,4.3
+C403,Course 403,Math,Advanced,4.5
+C404,Course 404,Math,Advanced,4.1
+C405,Course 405,Data Science,Intermediate,4.8
+C406,Course 406,AI,Beginner,3.8
+C407,Course 407,Cybersecurity,Beginner,4.4
+C408,Course 408,Data Science,Advanced,4.2
+C409,Course 409,Cybersecurity,Advanced,4.3
+C410,Course 410,Math,Intermediate,3.5
+C411,Course 411,Cloud Computing,Intermediate,3.5
+C412,Course 412,Math,Advanced,3.7
+C413,Course 413,Math,Beginner,3.2
+C414,Course 414,AI,Beginner,3.1
+C415,Course 415,Data Science,Beginner,4.4
+C416,Course 416,Cloud Computing,Intermediate,4.5
+C417,Course 417,Math,Advanced,3.6
+C418,Course 418,Programming,Beginner,4.1
+C419,Course 419,Math,Beginner,3.1
+C420,Course 420,Cybersecurity,Intermediate,4.8
+C421,Course 421,Cloud Computing,Advanced,3.3
+C422,Course 422,Cybersecurity,Beginner,4.0
+C423,Course 423,Programming,Advanced,4.6
+C424,Course 424,Cybersecurity,Beginner,3.5
+C425,Course 425,Cloud Computing,Advanced,3.9
+C426,Course 426,AI,Intermediate,3.8
+C427,Course 427,AI,Advanced,3.3
+C428,Course 428,AI,Advanced,4.6
+C429,Course 429,Cloud Computing,Intermediate,3.5
+C430,Course 430,Cybersecurity,Intermediate,4.3
+C431,Course 431,AI,Intermediate,4.5
+C432,Course 432,Programming,Beginner,3.6
+C433,Course 433,Cybersecurity,Beginner,3.2
+C434,Course 434,AI,Intermediate,3.0
+C435,Course 435,AI,Intermediate,3.6
+C436,Course 436,Cybersecurity,Beginner,4.6
+C437,Course 437,Cybersecurity,Intermediate,3.6
+C438,Course 438,AI,Beginner,4.2
+C439,Course 439,Cybersecurity,Advanced,3.0
+C440,Course 440,Cloud Computing,Intermediate,4.8
+C441,Course 441,Cloud Computing,Advanced,4.4
+C442,Course 442,Math,Advanced,3.1
+C443,Course 443,AI,Advanced,4.1
+C444,Course 444,AI,Intermediate,4.9
+C445,Course 445,Cybersecurity,Advanced,3.2
+C446,Course 446,Data Science,Beginner,3.9
+C447,Course 447,Cloud Computing,Advanced,3.2
+C448,Course 448,AI,Intermediate,3.5
+C449,Course 449,Cloud Computing,Intermediate,3.2
+C450,Course 450,Cybersecurity,Advanced,3.7
+C451,Course 451,Math,Advanced,3.2
+C452,Course 452,Cybersecurity,Intermediate,4.5
+C453,Course 453,Data Science,Intermediate,3.3
+C454,Course 454,Cybersecurity,Advanced,4.4
+C455,Course 455,Data Science,Advanced,3.5
+C456,Course 456,Cloud Computing,Advanced,3.6
+C457,Course 457,Cybersecurity,Advanced,3.7
+C458,Course 458,Cybersecurity,Beginner,3.5
+C459,Course 459,Cloud Computing,Beginner,3.9
+C460,Course 460,Cloud Computing,Intermediate,3.4
+C461,Course 461,Cloud Computing,Intermediate,4.2
+C462,Course 462,Programming,Intermediate,4.6
+C463,Course 463,Data Science,Advanced,3.6
+C464,Course 464,Programming,Intermediate,3.9
+C465,Course 465,AI,Intermediate,4.8
+C466,Course 466,Data Science,Intermediate,4.5
+C467,Course 467,Cloud Computing,Beginner,4.5
+C468,Course 468,Cybersecurity,Beginner,3.6
+C469,Course 469,Cloud Computing,Beginner,4.3
+C470,Course 470,Math,Beginner,4.5
+C471,Course 471,Cybersecurity,Beginner,3.7
+C472,Course 472,Cloud Computing,Intermediate,3.3
+C473,Course 473,Data Science,Beginner,4.3
+C474,Course 474,Cybersecurity,Intermediate,4.2
+C475,Course 475,Data Science,Intermediate,4.2
+C476,Course 476,AI,Advanced,3.7
+C477,Course 477,Data Science,Advanced,3.3
+C478,Course 478,Cybersecurity,Advanced,4.8
+C479,Course 479,Cloud Computing,Intermediate,4.7
+C480,Course 480,Programming,Intermediate,4.0
+C481,Course 481,Math,Intermediate,3.1
+C482,Course 482,Data Science,Intermediate,4.6
+C483,Course 483,Cybersecurity,Intermediate,3.3
+C484,Course 484,Cloud Computing,Intermediate,4.7
+C485,Course 485,Math,Beginner,4.2
+C486,Course 486,Cybersecurity,Intermediate,3.6
+C487,Course 487,Math,Advanced,3.6
+C488,Course 488,Data Science,Advanced,4.6
+C489,Course 489,AI,Beginner,4.0
+C490,Course 490,Data Science,Intermediate,3.2
+C491,Course 491,Cloud Computing,Intermediate,3.1
+C492,Course 492,Math,Intermediate,3.8
+C493,Course 493,Cybersecurity,Beginner,4.0
+C494,Course 494,Data Science,Advanced,3.3
+C495,Course 495,AI,Beginner,4.4
+C496,Course 496,Cloud Computing,Beginner,3.8
+C497,Course 497,Cybersecurity,Advanced,4.6
+C498,Course 498,AI,Advanced,5.0
+C499,Course 499,Math,Intermediate,3.8
+C500,Course 500,Programming,Beginner,4.4
